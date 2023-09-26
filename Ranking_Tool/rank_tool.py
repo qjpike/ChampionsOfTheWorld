@@ -44,10 +44,16 @@ class FantasyTeam:
         self.total_wins = self.total_h2h_wins + self.total_points_wins
 
     def __lt__(self, other):
-        if self.total_wins < other.total_wins:
+        if self.total_wins > other.total_wins:
+            return False
+        elif self.total_wins < other.total_wins:
             return True
+        elif self.total_h2h_wins > other.total_h2h_wins:  # if total wins are equal, compare total H2H Wins
+            return False
         elif self.total_h2h_wins < other.total_h2h_wins:
             return True
+        elif self.total_points > other.total_points: # if H2H wins are also equal, compare total points
+            return False
         elif self.total_points < other.total_points:
             return True
 
@@ -201,7 +207,6 @@ def main():
             team.update_cuml_stats()
         display_rankings(teams, week)
         save_rankings_history(teams, week)
-
 
         continue_input = input("Do you want to input results for another week? (yes/no): ").strip().lower()
         if continue_input != 'yes':
