@@ -160,7 +160,7 @@ def display_rankings(teams, week):
             else:
                 rank_str = f'{rank_delta}'
 
-        new_rankings_table += f"| {i} | {team.name} | {team.owner} | {team.total_wins} | {team.h2h_wins[week - 1]} | {team.points_wins[week - 1]} | {team.weekly_points[week - 1]} | {team.total_h2h_wins} | {team.total_points_wins} | {team.total_points} | {rank_str} |\n"
+        new_rankings_table += f"| {i} | {team.name} | {team.owner} | {team.total_wins} | {team.h2h_wins[week - 1]} | {team.points_wins[week - 1]} | {team.weekly_points[week - 1]:5.2f} | {team.total_h2h_wins} | {team.total_points_wins} | {team.total_points:5.2f} | {rank_str} |\n"
     new_rankings_table += "\n\n"
     # Save the new rankings table to the rankings.md file
     with open("rankings.md", "r+") as md_file:
