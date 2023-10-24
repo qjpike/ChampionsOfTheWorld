@@ -1,3 +1,16 @@
+# Week 7 Rankings
+| Standings | Team | Owner | Wins Total | H2H Win (Week 7) | Points Win (Week 7) | Points For (Week 7) | H2H Wins (Cum'l) | Points Wins (Cum'l) | Points For (Cum'l) | +/- + |
+|:---------:|:----:|:-----:|:----------:|:----------------:|:-------------------:|:-------------------:|:----------------:|:-------------------:|:------------------:|:------:|
+| 1 | Buffalo Billy | Will | 10 | 1 | 1 | 155.68 | 4 | 6 | 984.52 | +1 |
+| 2 | what willis was talkin bout | Q | 9 | 1 | 0 | 118.06 | 6 | 3 | 878.50 | -1 |
+| 3 | warrior blue wolf | Don | 9 | 1 | 1 | 141.44 | 4 | 5 | 1007.10 | +1 |
+| 4 | Alvin and the Titmunks | Jeff | 9 | 0 | 1 | 132.98 | 3 | 6 | 901.04 | -1 |
+| 5 | Cowboys All The Way | Bob | 8 | 1 | 1 | 127.66 | 4 | 4 | 867.32 | - |
+| 6 | Eddie Miles | Dannye | 5 | 0 | 0 | 101.96 | 3 | 2 | 808.70 | - |
+| 7 | CARDiacKids | Tilly | 4 | 0 | 0 | 105.18 | 2 | 2 | 855.62 | - |
+| 8 | The Denzel Washington Redskins | LeMar | 2 | 0 | 0 | 94.32 | 2 | 0 | 721.38 | - |
+
+
 # Week 6 Rankings
 | Standings | Team | Owner | Wins Total | H2H Win (Week 6) | Points Win (Week 6) | Points For (Week 6) | H2H Wins (Cum'l) | Points Wins (Cum'l) | Points For (Cum'l) | +/- + |
 |:---------:|:----:|:-----:|:----------:|:----------------:|:-------------------:|:-------------------:|:----------------:|:-------------------:|:------------------:|:------:|
