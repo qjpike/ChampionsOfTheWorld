@@ -1,3 +1,16 @@
+# Week 10 Rankings
+| Standings | Team | Owner | Wins Total | H2H Win (Week 10) | Points Win (Week 10) | Points For (Week 10) | H2H Wins (Cum'l) | Points Wins (Cum'l) | Points For (Cum'l) | +/- + |
+|:---------:|:----:|:-----:|:----------:|:----------------:|:-------------------:|:-------------------:|:----------------:|:-------------------:|:------------------:|:------:|
+| 1 | what willis was talkin bout | Q | 15 | 1 | 1 | 144.10 | 9 | 6 | 1341.66 | - |
+| 2 | warrior blue wolf | Don | 11 | 1 | 0 | 129.76 | 6 | 5 | 1363.46 | +1 |
+| 3 | Buffalo Billy | Will | 11 | 0 | 0 | 123.88 | 4 | 7 | 1333.14 | -1 |
+| 4 | Alvin and the Titmunks | Jeff | 10 | 0 | 0 | 100.40 | 3 | 7 | 1247.56 | - |
+| 5 | Eddie Miles | Dannye | 9 | 1 | 1 | 167.38 | 5 | 4 | 1232.36 | +2 |
+| 6 | CARDiacKids | Tilly | 9 | 0 | 1 | 134.40 | 4 | 5 | 1259.70 | -1 |
+| 7 | Cowboys All The Way | Bob | 8 | 0 | 0 | 102.26 | 4 | 4 | 1119.16 | -1 |
+| 8 | The Denzel Washington Redskins | LeMar | 7 | 1 | 1 | 143.64 | 5 | 2 | 1149.64 | - |
+
+
 # Week 9 Rankings
 | Standings | Team | Owner | Wins Total | H2H Win (Week 9) | Points Win (Week 9) | Points For (Week 9) | H2H Wins (Cum'l) | Points Wins (Cum'l) | Points For (Cum'l) | +/- + |
 |:---------:|:----:|:-----:|:----------:|:----------------:|:-------------------:|:-------------------:|:----------------:|:-------------------:|:------------------:|:------:|
