@@ -1,3 +1,16 @@
+# Week 13 Rankings
+| Standings | Team | Owner | Wins Total | H2H Win (Week 13) | Points Win (Week 13) | Points For (Week 13) | H2H Wins (Cum'l) | Points Wins (Cum'l) | Points For (Cum'l) | +/- + |
+|:---------:|:----:|:-----:|:----------:|:----------------:|:-------------------:|:-------------------:|:----------------:|:-------------------:|:------------------:|:------:|
+| 1 | what willis was talkin bout | Q | 19 | 1 | 1 | 152.90 | 10 | 9 | 1780.14 | - |
+| 2 | warrior blue wolf | Don | 15 | 0 | 0 | 110.98 | 8 | 7 | 1788.82 | - |
+| 3 | Buffalo Billy | Will | 15 | 1 | 1 | 200.94 | 6 | 9 | 1779.84 | - |
+| 4 | CARDiacKids | Tilly | 13 | 1 | 1 | 195.24 | 6 | 7 | 1701.68 | +2 |
+| 5 | Cowboys All The Way | Bob | 12 | 1 | 0 | 97.66 | 7 | 5 | 1462.88 | - |
+| 6 | Eddie Miles | Dannye | 12 | 0 | 1 | 144.10 | 6 | 6 | 1636.04 | -2 |
+| 7 | Alvin and the Titmunks | Jeff | 10 | 0 | 0 | 78.04 | 3 | 7 | 1533.76 | - |
+| 8 | The Denzel Washington Redskins | LeMar | 8 | 0 | 0 | 111.08 | 6 | 2 | 1476.22 | - |
+
+
 # Week 12 Rankings
 | Standings | Team | Owner | Wins Total | H2H Win (Week 12) | Points Win (Week 12) | Points For (Week 12) | H2H Wins (Cum'l) | Points Wins (Cum'l) | Points For (Cum'l) | +/- + |
 |:---------:|:----:|:-----:|:----------:|:----------------:|:-------------------:|:-------------------:|:----------------:|:-------------------:|:------------------:|:------:|
