@@ -1,6 +1,6 @@
 # Week 14 Rankings
-| Standings | Team | Owner | Wins Total | H2H Win (Week 14) | Points Win (Week 14) | Points For (Week 14) | H2H Wins (Cum'l) | Points Wins (Cum'l) | Points For (Cum'l) | +/- + | Direct H2H Wins |
-|:---------:|:----:|:-----:|:----------:|:----------------:|:-------------------:|:-------------------:|:----------------:|:-------------------:|:------------------:|:------:|:---------------:|
+| Standings | Team | Owner | Wins Total | H2H Win (Week 14) | Points Win (Week 14) | Points For (Week 14) | H2H Wins (Cum'l) | Points Wins (Cum'l) | Points For (Cum'l) | +/- + | Direct H2H Wins | Direct H2H Points |
+|:---------:|:----:|:-----:|:----------:|:----------------:|:-------------------:|:-------------------:|:----------------:|:-------------------:|:------------------:|:------:|:---------------:|:-----------------:|
 | 1 | what willis was talkin bout | Q | 21 | 1 | 1 | 125.86 | 11 | 10 | 1906.00 | - | - | - |
 | 2 | warrior blue wolf | Don | 16 | 1 | 0 | 121.92 | 9 | 7 | 1910.74 | - | - | - |
 | 3 | Buffalo Billy | Will | 15 | 0 | 0 | 84.04 | 6 | 9 | 1863.88 | - | - | - |
