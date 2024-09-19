@@ -32,8 +32,8 @@ class FantasyTeam:
         self.h2h_wins[week - 1] = 1 if win else 0
         self.total_h2h_wins = sum(self.h2h_wins)
 
-    def record_points_win(self, week):
-        self.points_wins[week - 1] = 1
+    def record_points_win(self, week, win):
+        self.points_wins[week - 1] = 1 if win else 0
         self.total_points_wins = sum(self.points_wins)
 
     def update_score(self, score, week):
@@ -133,9 +133,9 @@ def input_results_for_week(week, teams):
 
 
 def give_extra_wins(teams, week):
-    sorted_teams = sorted(teams.values(), key=lambda x: (x.weekly_points[week-1]))[len(teams)//2:]
-    for team in sorted_teams:
-        team.record_points_win(week)
+    sorted_teams = sorted(teams.values(), key=lambda x: (x.weekly_points[week-1]))
+    for i, team in enumerate(sorted_teams):
+        team.record_points_win(week, i >= len(sorted_teams) // 2)
 
 
 def display_rankings(teams, week):

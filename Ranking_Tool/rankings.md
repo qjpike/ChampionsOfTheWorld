@@ -8,8 +8,8 @@
 |     4     |          Eddie Miles           |   Dannye   |     2      |        1         |          1          |       157.20        |        1         |          1          |       282.24       |  +2   |
 |     5     |  what willis was talkin bout   |     Q      |     2      |        0         |          0          |       111.76        |        1         |          1          |       250.46       |  -3   |
 |     6     |       Swift loves Kelce        |    Bob     |     1      |        0         |          0          |        98.30        |        1         |          0          |       217.34       |  -2   |
-|     7     |       warrior blue wolf        | Don & King |     1      |        0         |          1          |       132.26        |        0         |          1          |       221.18       |  +1   |
-|     8     | The Denzel Washington Redskins |   Lemar    |     1      |        0         |          1          |       100.78        |        0         |          1          |       212.10       |  -1   |
+|     7     |       warrior blue wolf        | Don & King |     0      |        0         |          0          |       132.26        |        0         |          0          |       221.18       |  +1   |
+|     8     | The Denzel Washington Redskins |   Lemar    |     0      |        0         |          0          |       100.78        |        0         |          0          |       212.10       |  -1   |
 
 # Week 1 Rankings
 

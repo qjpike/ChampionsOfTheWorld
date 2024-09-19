@@ -336,7 +336,7 @@
  },
  "warrior blue wolf": {
   "owner": "Don & King",
-  "total_wins": 1,
+  "total_wins": 0,
   "h2h_wins": [
    0,
    0,
@@ -371,7 +371,7 @@
   ],
   "points_wins": [
    0,
-   1,
+   0,
    0,
    0,
    0,
@@ -384,7 +384,7 @@
    0,
    0
   ],
-  "total_points_wins": 1,
+  "total_points_wins": 0,
   "ranks": [
    8,
    7,
@@ -470,7 +470,7 @@
  },
  "The Denzel Washington Redskins": {
   "owner": "Lemar",
-  "total_wins": 1,
+  "total_wins": 0,
   "h2h_wins": [
    0,
    0,
@@ -505,7 +505,7 @@
   ],
   "points_wins": [
    0,
-   1,
+   0,
    0,
    0,
    0,
@@ -518,7 +518,7 @@
    0,
    0
   ],
-  "total_points_wins": 1,
+  "total_points_wins": 0,
   "ranks": [
    7,
    8,
