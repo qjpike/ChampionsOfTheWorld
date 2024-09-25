@@ -1,3 +1,16 @@
+# Week 3 Rankings
+
+| Standings |              Team              |   Owner    | Wins Total | H2H Win (Week 3) | Points Win (Week 3) | Points For (Week 3) | H2H Wins (Cum'l) | Points Wins (Cum'l) | Points For (Cum'l) | +/- + |
+| :-------: | :----------------------------: | :--------: | :--------: | :--------------: | :-----------------: | :-----------------: | :--------------: | :-----------------: | :----------------: | :---: |
+|     1     |          CARDiacKids           |   Tilly    |     6      |        1         |          1          |       137.76        |        3         |          3          |       420.60       |  +1   |
+|     2     |         Buffalo Billy          |    Will    |     5      |        0         |          1          |       131.42        |        2         |          3          |       421.68       |  -1   |
+|     3     |     Alvin and the Titmunks     |    Jeff    |     5      |        1         |          1          |       140.96        |        2         |          3          |       408.40       |   -   |
+|     4     |          Eddie Miles           |   Dannye   |     3      |        1         |          0          |       121.62        |        2         |          1          |       403.86       |   -   |
+|     5     |  what willis was talkin bout   |     Q      |     2      |        0         |          0          |       130.80        |        1         |          1          |       381.26       |   -   |
+|     6     | The Denzel Washington Redskins |   Lemar    |     2      |        1         |          1          |       133.42        |        1         |          1          |       345.52       |  +2   |
+|     7     |       Swift loves Kelce        |    Bob     |     1      |        0         |          0          |       122.02        |        1         |          0          |       339.36       |  -1   |
+|     8     |       warrior blue wolf        | Don & King |     0      |        0         |          0          |       103.54        |        0         |          0          |       324.72       |  -1   |
+
 # Week 2 Rankings
 
 | Standings |              Team              |   Owner    | Wins Total | H2H Win (Week 2) | Points Win (Week 2) | Points For (Week 2) | H2H Wins (Cum'l) | Points Wins (Cum'l) | Points For (Cum'l) | +/- + |

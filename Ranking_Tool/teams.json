@@ -18,11 +18,11 @@
    0
   ],
   "total_h2h_wins": 1,
-  "total_points": 250.45999999999998,
+  "total_points": 381.26,
   "weekly_points": [
    138.7,
    111.76,
-   0,
+   130.8,
    0,
    0,
    0,
@@ -53,7 +53,7 @@
   "ranks": [
    2,
    5,
-   0,
+   5,
    0,
    0,
    0,
@@ -68,11 +68,11 @@
  },
  "Alvin and the Titmunks": {
   "owner": "Jeff",
-  "total_wins": 3,
+  "total_wins": 5,
   "h2h_wins": [
    0,
    1,
-   0,
+   1,
    0,
    0,
    0,
@@ -84,12 +84,12 @@
    0,
    0
   ],
-  "total_h2h_wins": 1,
-  "total_points": 267.44,
+  "total_h2h_wins": 2,
+  "total_points": 408.4,
   "weekly_points": [
    134.42,
    133.02,
-   0,
+   140.96,
    0,
    0,
    0,
@@ -104,7 +104,7 @@
   "points_wins": [
    1,
    1,
-   0,
+   1,
    0,
    0,
    0,
@@ -116,11 +116,11 @@
    0,
    0
   ],
-  "total_points_wins": 2,
+  "total_points_wins": 3,
   "ranks": [
    5,
    3,
-   0,
+   3,
    0,
    0,
    0,
@@ -135,11 +135,11 @@
  },
  "Eddie Miles": {
   "owner": "Dannye",
-  "total_wins": 2,
+  "total_wins": 3,
   "h2h_wins": [
    0,
    1,
-   0,
+   1,
    0,
    0,
    0,
@@ -151,12 +151,12 @@
    0,
    0
   ],
-  "total_h2h_wins": 1,
-  "total_points": 282.24,
+  "total_h2h_wins": 2,
+  "total_points": 403.86,
   "weekly_points": [
    125.04,
    157.2,
-   0,
+   121.62,
    0,
    0,
    0,
@@ -187,7 +187,7 @@
   "ranks": [
    6,
    4,
-   0,
+   4,
    0,
    0,
    0,
@@ -202,11 +202,11 @@
  },
  "CARDiacKids": {
   "owner": "Tilly",
-  "total_wins": 4,
+  "total_wins": 6,
   "h2h_wins": [
    1,
    1,
-   0,
+   1,
    0,
    0,
    0,
@@ -218,12 +218,12 @@
    0,
    0
   ],
-  "total_h2h_wins": 2,
-  "total_points": 282.84000000000003,
+  "total_h2h_wins": 3,
+  "total_points": 420.6,
   "weekly_points": [
    129.22,
    153.62,
-   0,
+   137.76,
    0,
    0,
    0,
@@ -238,7 +238,7 @@
   "points_wins": [
    1,
    1,
-   0,
+   1,
    0,
    0,
    0,
@@ -250,11 +250,11 @@
    0,
    0
   ],
-  "total_points_wins": 2,
+  "total_points_wins": 3,
   "ranks": [
    3,
    2,
-   0,
+   1,
    0,
    0,
    0,
@@ -286,11 +286,11 @@
    0
   ],
   "total_h2h_wins": 1,
-  "total_points": 217.34,
+  "total_points": 339.36,
   "weekly_points": [
    119.04,
    98.3,
-   0,
+   122.02,
    0,
    0,
    0,
@@ -321,7 +321,7 @@
   "ranks": [
    4,
    6,
-   0,
+   7,
    0,
    0,
    0,
@@ -353,11 +353,11 @@
    0
   ],
   "total_h2h_wins": 0,
-  "total_points": 221.18,
+  "total_points": 324.72,
   "weekly_points": [
    88.92,
    132.26,
-   0,
+   103.54,
    0,
    0,
    0,
@@ -388,7 +388,7 @@
   "ranks": [
    8,
    7,
-   0,
+   8,
    0,
    0,
    0,
@@ -403,7 +403,7 @@
  },
  "Buffalo Billy": {
   "owner": "Will",
-  "total_wins": 4,
+  "total_wins": 5,
   "h2h_wins": [
    1,
    1,
@@ -420,11 +420,11 @@
    0
   ],
   "total_h2h_wins": 2,
-  "total_points": 290.26,
+  "total_points": 421.67999999999995,
   "weekly_points": [
    156.92,
    133.34,
-   0,
+   131.42,
    0,
    0,
    0,
@@ -439,7 +439,7 @@
   "points_wins": [
    1,
    1,
-   0,
+   1,
    0,
    0,
    0,
@@ -451,11 +451,11 @@
    0,
    0
   ],
-  "total_points_wins": 2,
+  "total_points_wins": 3,
   "ranks": [
    1,
    1,
-   0,
+   2,
    0,
    0,
    0,
@@ -470,11 +470,11 @@
  },
  "The Denzel Washington Redskins": {
   "owner": "Lemar",
-  "total_wins": 0,
+  "total_wins": 2,
   "h2h_wins": [
    0,
    0,
-   0,
+   1,
    0,
    0,
    0,
@@ -486,12 +486,12 @@
    0,
    0
   ],
-  "total_h2h_wins": 0,
-  "total_points": 212.1,
+  "total_h2h_wins": 1,
+  "total_points": 345.52,
   "weekly_points": [
    111.32,
    100.78,
-   0,
+   133.42,
    0,
    0,
    0,
@@ -506,7 +506,7 @@
   "points_wins": [
    0,
    0,
-   0,
+   1,
    0,
    0,
    0,
@@ -518,11 +518,11 @@
    0,
    0
   ],
-  "total_points_wins": 0,
+  "total_points_wins": 1,
   "ranks": [
    7,
    8,
-   0,
+   6,
    0,
    0,
    0,
