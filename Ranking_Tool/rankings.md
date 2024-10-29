@@ -1,3 +1,55 @@
+# Week 8 Rankings
+
+| Standings |              Team              |   Owner    | Wins Total | H2H Win (Week 8) | Points Win (Week 8) | Points For (Week 8) | H2H Wins (Cum'l) | Points Wins (Cum'l) | Points For (Cum'l) | +/- + |
+| :-------: | :----------------------------: | :--------: | :--------: | :--------------: | :-----------------: | :-----------------: | :--------------: | :-----------------: | :----------------: | :---: |
+|     1     |          Eddie Miles           |   Dannye   |     11     |        1         |          1          |       164.60        |        7         |          4          |      1100.62       |   -   |
+|     2     |          CARDiacKids           |   Tilly    |     10     |        0         |          1          |       162.54        |        4         |          6          |      1095.44       |   -   |
+|     3     |         Buffalo Billy          |    Will    |     10     |        1         |          1          |       141.82        |        4         |          6          |      1047.64       |  +1   |
+|     4     |     Alvin and the Titmunks     |    Jeff    |     9      |        0         |          0          |       107.06        |        4         |          5          |      1000.34       |  -1   |
+|     5     |       Swift loves Kelce        |    Bob     |     8      |        1         |          0          |       123.32        |        5         |          3          |      1017.36       |   -   |
+|     6     |  what willis was talkin bout   |     Q      |     6      |        1         |          1          |       150.02        |        3         |          3          |       980.80       |  +1   |
+|     7     | The Denzel Washington Redskins |   Lemar    |     6      |        0         |          0          |       112.54        |        3         |          3          |       952.18       |  -1   |
+|     8     |       warrior blue wolf        | Don & King |     4      |        0         |          0          |       121.84        |        2         |          2          |       919.28       |   -   |
+
+# Week 7 Rankings
+
+| Standings |              Team              |   Owner    | Wins Total | H2H Win (Week 7) | Points Win (Week 7) | Points For (Week 7) | H2H Wins (Cum'l) | Points Wins (Cum'l) | Points For (Cum'l) | +/- + |
+| :-------: | :----------------------------: | :--------: | :--------: | :--------------: | :-----------------: | :-----------------: | :--------------: | :-----------------: | :----------------: | :---: |
+|     1     |          Eddie Miles           |   Dannye   |     9      |        1         |          0          |       115.90        |        6         |          3          |       936.02       |  +1   |
+|     2     |          CARDiacKids           |   Tilly    |     9      |        0         |          1          |       132.16        |        4         |          5          |       932.90       |  +1   |
+|     3     |     Alvin and the Titmunks     |    Jeff    |     9      |        0         |          0          |       100.98        |        4         |          5          |       893.28       |  -2   |
+|     4     |         Buffalo Billy          |    Will    |     8      |        1         |          1          |       137.00        |        3         |          5          |       905.82       |  +1   |
+|     5     |       Swift loves Kelce        |    Bob     |     7      |        1         |          1          |       133.66        |        4         |          3          |       894.04       |  +1   |
+|     6     | The Denzel Washington Redskins |   Lemar    |     6      |        0         |          0          |        85.78        |        3         |          3          |       839.64       |  -2   |
+|     7     |  what willis was talkin bout   |     Q      |     4      |        1         |          1          |       151.78        |        2         |          2          |       830.78       |  +1   |
+|     8     |       warrior blue wolf        | Don & King |     4      |        0         |          0          |       109.50        |        2         |          2          |       797.44       |  -1   |
+
+# Week 6 Rankings
+
+| Standings |              Team              |   Owner    | Wins Total | H2H Win (Week 6) | Points Win (Week 6) | Points For (Week 6) | H2H Wins (Cum'l) | Points Wins (Cum'l) | Points For (Cum'l) | +/- + |
+| :-------: | :----------------------------: | :--------: | :--------: | :--------------: | :-----------------: | :-----------------: | :--------------: | :-----------------: | :----------------: | :---: |
+|     1     |     Alvin and the Titmunks     |    Jeff    |     9      |        1         |          1          |       145.60        |        4         |          5          |       792.30       |  +2   |
+|     2     |          Eddie Miles           |   Dannye   |     8      |        1         |          0          |       128.68        |        5         |          3          |       820.12       |   -   |
+|     3     |          CARDiacKids           |   Tilly    |     8      |        0         |          0          |       126.10        |        4         |          4          |       800.74       |  -2   |
+|     4     | The Denzel Washington Redskins |   Lemar    |     6      |        0         |          0          |       115.14        |        3         |          3          |       753.86       |   -   |
+|     5     |         Buffalo Billy          |    Will    |     6      |        0         |          1          |       137.44        |        2         |          4          |       768.82       |   -   |
+|     6     |       Swift loves Kelce        |    Bob     |     5      |        1         |          1          |       158.42        |        3         |          2          |       760.38       |   -   |
+|     7     |       warrior blue wolf        | Don & King |     4      |        1         |          1          |       132.02        |        2         |          2          |       687.94       |  +1   |
+|     8     |  what willis was talkin bout   |     Q      |     2      |        0         |          0          |       111.06        |        1         |          1          |       679.00       |  -1   |
+
+# Week 5 Rankings
+
+| Standings |              Team              |   Owner    | Wins Total | H2H Win (Week 5) | Points Win (Week 5) | Points For (Week 5) | H2H Wins (Cum'l) | Points Wins (Cum'l) | Points For (Cum'l) | +/- + |
+| :-------: | :----------------------------: | :--------: | :--------: | :--------------: | :-----------------: | :-----------------: | :--------------: | :-----------------: | :----------------: | :---: |
+|     1     |          CARDiacKids           |   Tilly    |     8      |        1         |          1          |       139.32        |        4         |          4          |       674.64       |  +1   |
+|     2     |          Eddie Miles           |   Dannye   |     7      |        1         |          1          |       126.02        |        4         |          3          |       691.44       |  +1   |
+|     3     |     Alvin and the Titmunks     |    Jeff    |     7      |        0         |          0          |        99.62        |        3         |          4          |       646.70       |  -2   |
+|     4     | The Denzel Washington Redskins |   Lemar    |     6      |        1         |          1          |       149.74        |        3         |          3          |       638.72       |  +1   |
+|     5     |         Buffalo Billy          |    Will    |     5      |        0         |          0          |        93.48        |        2         |          3          |       631.38       |  -1   |
+|     6     |       Swift loves Kelce        |    Bob     |     3      |        0         |          0          |       124.88        |        2         |          1          |       601.96       |   -   |
+|     7     |  what willis was talkin bout   |     Q      |     2      |        0         |          0          |        95.20        |        1         |          1          |       567.94       |   -   |
+|     8     |       warrior blue wolf        | Don & King |     2      |        1         |          1          |       129.06        |        1         |          1          |       555.92       |   -   |
+
 # Week 4 Rankings
 
 | Standings |              Team              |   Owner    | Wins Total | H2H Win (Week 4) | Points Win (Week 4) | Points For (Week 4) | H2H Wins (Cum'l) | Points Wins (Cum'l) | Points For (Cum'l) | +/- + |
