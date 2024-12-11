@@ -1,3 +1,16 @@
+# Week 14 Rankings
+| Standings | Team | Owner | Wins Total | H2H Win (Week 14) | Points Win (Week 14) | Points For (Week 14) | H2H Wins (Cum'l) | Points Wins (Cum'l) | Points For (Cum'l) | +/- + |
+|:---------:|:----:|:-----:|:----------:|:----------------:|:-------------------:|:-------------------:|:----------------:|:-------------------:|:------------------:|:------:|
+| 1 | Eddie Miles | Dannye | 18 | 1 | 1 | 152.56 | 10 | 8 | 1881.72 | +1 |
+| 2 | Buffalo Billy | Will | 18 | 0 | 0 | 76.44 | 8 | 10 | 1828.86 | -1 |
+| 3 | CARDiacKids | Tilly | 15 | 0 | 0 | 135.26 | 7 | 8 | 1929.24 | - |
+| 4 | Swift loves Kelce | Bob | 14 | 1 | 0 | 118.34 | 8 | 6 | 1801.14 | - |
+| 5 | Alvin and the Titmunks | Jeff | 13 | 0 | 0 | 112.52 | 7 | 6 | 1694.44 | - |
+| 6 | The Denzel Washington Redskins | Lemar | 13 | 0 | 1 | 136.70 | 6 | 7 | 1779.68 | - |
+| 7 | what willis was talkin bout | Q | 12 | 1 | 1 | 174.94 | 5 | 7 | 1772.78 | - |
+| 8 | warrior blue wolf | Don & King | 9 | 1 | 1 | 189.34 | 5 | 4 | 1763.64 | - |
+
+
 # Week 13 Rankings
 
 | Standings |              Team              |   Owner    | Wins Total | H2H Win (Week 13) | Points Win (Week 13) | Points For (Week 13) | H2H Wins (Cum'l) | Points Wins (Cum'l) | Points For (Cum'l) | +/- + |
