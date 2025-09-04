@@ -169,7 +169,7 @@ def display_rankings(teams, week):
         md_file.write(new_rankings_table + content)
 
 
-def save_rankings_history(teams, week):
+def save_rankings_history(teams):
     # Save the team data to a JSON file
     with open(f"teams.json", "w") as json_file:
         data = {team.name: {
@@ -198,6 +198,8 @@ def main():
             if team_name not in teams:
                 teams[team_name] = FantasyTeam(team_name, owner_name)
                 teams[team_name].is_done = False
+        save_rankings_history(teams)
+        exit
 
     while True:
         week = int(input("Input the week: "))
